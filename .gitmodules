@@ -1,3 +1,3 @@
 [submodule "SayCV_OpenVPN_build"]
 	path = SayCV_OpenVPN_build
-	url = https://github.com/OpenVPN/openvpn-build.git
+	url = https://SayCV@github.com/SayCV/SayCV_OpenVPN_build.git
